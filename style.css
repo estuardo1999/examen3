@@ -1,0 +1,66 @@
+body{
+    background-image: url("img/fondo3.jpg");
+    background-position: center 25%;
+    background-size: cover;
+}
+.titulo{
+    text-align: center;
+}
+.boton{
+    border: 2px solid red;
+    padding: 10px;
+    background-color: white;
+    font-family: cursive;
+    border-radius: 15px;
+    background-position: center;
+    text-align: center;
+    margin-left: 30%;
+}
+.boton2{
+    border: 2px solid red;
+    padding: 10px;
+    background-color: white;
+    font-family: cursive;
+    border-radius: 15px;
+    background-position: center;
+    text-align: center;
+    margin-left: 3%;
+}
+.boton3{
+    border: 2px solid red;
+    padding: 10px;
+    background-color: white;
+    font-family: cursive;
+    border-radius: 15px;
+    background-position: center;
+    text-align: center;
+    margin-left: 3%;
+}
+.botoncarro{
+    text-align: center;
+    font-family: cursive;
+    background-position: center;
+    margin-left: 40%;
+    color:white;
+}
+h2{
+    color: black;
+    text-shadow: #555 2px 2px 3px;
+    text-align: center;
+    background-position: center;
+    margin-top: 5%;
+}
+.bloque{
+    text-align: center;
+}
+.bloqueimg{
+    padding:15px;
+    margin:20px;
+    display: inline-block;
+}
+button{
+    border-radius: 15px;
+    font-size: large;
+    font-family: cursive;
+}
+
